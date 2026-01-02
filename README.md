@@ -211,7 +211,6 @@ This project is for educational purposes. Feel free to use and modify as needed.
 - Created as a learning project for C++ classes and OOP concepts
 - Designed to demonstrate real-world banking system principles
 - Focus on security and data protection practices
-
 ---
 
 **Note**: This is a simulation for educational purposes. No real financial transactions are processed.
